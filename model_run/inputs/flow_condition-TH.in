@@ -1,0 +1,4551 @@
+
+FLOW_CONDITION Flow_Mass1_35
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_35.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_35.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_35.txt
+END
+
+FLOW_CONDITION Flow_Mass1_36
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_36.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_36.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_36.txt
+END
+
+FLOW_CONDITION Flow_Mass1_37
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_37.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_37.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_37.txt
+END
+
+FLOW_CONDITION Flow_Mass1_38
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_38.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_38.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_38.txt
+END
+
+FLOW_CONDITION Flow_Mass1_39
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_39.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_39.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_39.txt
+END
+
+FLOW_CONDITION Flow_Mass1_40
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_40.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_40.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_40.txt
+END
+
+FLOW_CONDITION Flow_Mass1_41
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_41.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_41.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_41.txt
+END
+
+FLOW_CONDITION Flow_Mass1_42
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_42.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_42.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_42.txt
+END
+
+FLOW_CONDITION Flow_Mass1_43
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_43.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_43.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_43.txt
+END
+
+FLOW_CONDITION Flow_Mass1_44
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_44.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_44.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_44.txt
+END
+
+FLOW_CONDITION Flow_Mass1_45
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_45.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_45.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_45.txt
+END
+
+FLOW_CONDITION Flow_Mass1_46
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_46.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_46.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_46.txt
+END
+
+FLOW_CONDITION Flow_Mass1_47
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_47.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_47.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_47.txt
+END
+
+FLOW_CONDITION Flow_Mass1_48
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_48.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_48.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_48.txt
+END
+
+FLOW_CONDITION Flow_Mass1_49
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_49.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_49.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_49.txt
+END
+
+FLOW_CONDITION Flow_Mass1_50
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_50.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_50.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_50.txt
+END
+
+FLOW_CONDITION Flow_Mass1_51
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_51.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_51.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_51.txt
+END
+
+FLOW_CONDITION Flow_Mass1_52
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_52.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_52.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_52.txt
+END
+
+FLOW_CONDITION Flow_Mass1_53
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_53.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_53.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_53.txt
+END
+
+FLOW_CONDITION Flow_Mass1_54
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_54.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_54.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_54.txt
+END
+
+FLOW_CONDITION Flow_Mass1_55
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_55.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_55.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_55.txt
+END
+
+FLOW_CONDITION Flow_Mass1_56
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_56.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_56.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_56.txt
+END
+
+FLOW_CONDITION Flow_Mass1_57
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_57.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_57.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_57.txt
+END
+
+FLOW_CONDITION Flow_Mass1_58
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_58.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_58.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_58.txt
+END
+
+FLOW_CONDITION Flow_Mass1_59
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_59.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_59.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_59.txt
+END
+
+FLOW_CONDITION Flow_Mass1_60
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_60.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_60.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_60.txt
+END
+
+FLOW_CONDITION Flow_Mass1_61
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_61.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_61.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_61.txt
+END
+
+FLOW_CONDITION Flow_Mass1_62
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_62.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_62.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_62.txt
+END
+
+FLOW_CONDITION Flow_Mass1_63
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_63.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_63.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_63.txt
+END
+
+FLOW_CONDITION Flow_Mass1_64
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_64.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_64.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_64.txt
+END
+
+FLOW_CONDITION Flow_Mass1_65
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_65.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_65.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_65.txt
+END
+
+FLOW_CONDITION Flow_Mass1_66
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_66.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_66.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_66.txt
+END
+
+FLOW_CONDITION Flow_Mass1_67
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_67.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_67.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_67.txt
+END
+
+FLOW_CONDITION Flow_Mass1_68
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_68.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_68.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_68.txt
+END
+
+FLOW_CONDITION Flow_Mass1_69
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_69.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_69.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_69.txt
+END
+
+FLOW_CONDITION Flow_Mass1_70
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_70.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_70.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_70.txt
+END
+
+FLOW_CONDITION Flow_Mass1_71
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_71.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_71.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_71.txt
+END
+
+FLOW_CONDITION Flow_Mass1_72
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_72.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_72.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_72.txt
+END
+
+FLOW_CONDITION Flow_Mass1_73
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_73.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_73.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_73.txt
+END
+
+FLOW_CONDITION Flow_Mass1_74
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_74.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_74.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_74.txt
+END
+
+FLOW_CONDITION Flow_Mass1_75
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_75.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_75.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_75.txt
+END
+
+FLOW_CONDITION Flow_Mass1_76
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_76.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_76.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_76.txt
+END
+
+FLOW_CONDITION Flow_Mass1_77
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_77.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_77.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_77.txt
+END
+
+FLOW_CONDITION Flow_Mass1_78
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_78.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_78.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_78.txt
+END
+
+FLOW_CONDITION Flow_Mass1_79
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_79.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_79.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_79.txt
+END
+
+FLOW_CONDITION Flow_Mass1_80
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_80.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_80.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_80.txt
+END
+
+FLOW_CONDITION Flow_Mass1_81
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_81.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_81.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_81.txt
+END
+
+FLOW_CONDITION Flow_Mass1_82
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_82.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_82.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_82.txt
+END
+
+FLOW_CONDITION Flow_Mass1_83
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_83.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_83.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_83.txt
+END
+
+FLOW_CONDITION Flow_Mass1_84
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_84.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_84.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_84.txt
+END
+
+FLOW_CONDITION Flow_Mass1_85
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_85.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_85.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_85.txt
+END
+
+FLOW_CONDITION Flow_Mass1_86
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_86.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_86.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_86.txt
+END
+
+FLOW_CONDITION Flow_Mass1_87
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_87.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_87.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_87.txt
+END
+
+FLOW_CONDITION Flow_Mass1_88
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_88.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_88.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_88.txt
+END
+
+FLOW_CONDITION Flow_Mass1_89
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_89.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_89.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_89.txt
+END
+
+FLOW_CONDITION Flow_Mass1_90
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_90.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_90.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_90.txt
+END
+
+FLOW_CONDITION Flow_Mass1_91
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_91.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_91.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_91.txt
+END
+
+FLOW_CONDITION Flow_Mass1_92
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_92.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_92.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_92.txt
+END
+
+FLOW_CONDITION Flow_Mass1_93
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_93.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_93.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_93.txt
+END
+
+FLOW_CONDITION Flow_Mass1_94
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_94.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_94.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_94.txt
+END
+
+FLOW_CONDITION Flow_Mass1_95
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_95.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_95.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_95.txt
+END
+
+FLOW_CONDITION Flow_Mass1_96
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_96.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_96.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_96.txt
+END
+
+FLOW_CONDITION Flow_Mass1_97
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_97.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_97.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_97.txt
+END
+
+FLOW_CONDITION Flow_Mass1_98
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_98.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_98.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_98.txt
+END
+
+FLOW_CONDITION Flow_Mass1_99
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_99.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_99.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_99.txt
+END
+
+FLOW_CONDITION Flow_Mass1_100
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_100.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_100.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_100.txt
+END
+
+FLOW_CONDITION Flow_Mass1_101
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_101.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_101.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_101.txt
+END
+
+FLOW_CONDITION Flow_Mass1_102
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_102.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_102.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_102.txt
+END
+
+FLOW_CONDITION Flow_Mass1_103
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_103.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_103.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_103.txt
+END
+
+FLOW_CONDITION Flow_Mass1_104
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_104.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_104.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_104.txt
+END
+
+FLOW_CONDITION Flow_Mass1_105
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_105.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_105.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_105.txt
+END
+
+FLOW_CONDITION Flow_Mass1_106
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_106.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_106.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_106.txt
+END
+
+FLOW_CONDITION Flow_Mass1_107
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_107.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_107.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_107.txt
+END
+
+FLOW_CONDITION Flow_Mass1_108
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_108.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_108.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_108.txt
+END
+
+FLOW_CONDITION Flow_Mass1_109
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_109.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_109.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_109.txt
+END
+
+FLOW_CONDITION Flow_Mass1_110
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_110.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_110.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_110.txt
+END
+
+FLOW_CONDITION Flow_Mass1_111
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_111.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_111.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_111.txt
+END
+
+FLOW_CONDITION Flow_Mass1_112
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_112.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_112.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_112.txt
+END
+
+FLOW_CONDITION Flow_Mass1_113
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_113.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_113.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_113.txt
+END
+
+FLOW_CONDITION Flow_Mass1_114
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_114.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_114.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_114.txt
+END
+
+FLOW_CONDITION Flow_Mass1_115
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_115.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_115.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_115.txt
+END
+
+FLOW_CONDITION Flow_Mass1_116
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_116.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_116.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_116.txt
+END
+
+FLOW_CONDITION Flow_Mass1_117
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_117.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_117.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_117.txt
+END
+
+FLOW_CONDITION Flow_Mass1_118
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_118.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_118.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_118.txt
+END
+
+FLOW_CONDITION Flow_Mass1_119
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_119.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_119.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_119.txt
+END
+
+FLOW_CONDITION Flow_Mass1_120
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_120.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_120.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_120.txt
+END
+
+FLOW_CONDITION Flow_Mass1_121
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_121.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_121.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_121.txt
+END
+
+FLOW_CONDITION Flow_Mass1_122
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_122.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_122.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_122.txt
+END
+
+FLOW_CONDITION Flow_Mass1_123
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_123.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_123.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_123.txt
+END
+
+FLOW_CONDITION Flow_Mass1_124
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_124.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_124.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_124.txt
+END
+
+FLOW_CONDITION Flow_Mass1_125
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_125.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_125.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_125.txt
+END
+
+FLOW_CONDITION Flow_Mass1_126
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_126.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_126.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_126.txt
+END
+
+FLOW_CONDITION Flow_Mass1_127
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_127.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_127.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_127.txt
+END
+
+FLOW_CONDITION Flow_Mass1_128
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_128.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_128.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_128.txt
+END
+
+FLOW_CONDITION Flow_Mass1_129
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_129.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_129.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_129.txt
+END
+
+FLOW_CONDITION Flow_Mass1_130
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_130.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_130.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_130.txt
+END
+
+FLOW_CONDITION Flow_Mass1_131
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_131.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_131.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_131.txt
+END
+
+FLOW_CONDITION Flow_Mass1_132
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_132.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_132.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_132.txt
+END
+
+FLOW_CONDITION Flow_Mass1_133
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_133.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_133.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_133.txt
+END
+
+FLOW_CONDITION Flow_Mass1_134
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_134.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_134.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_134.txt
+END
+
+FLOW_CONDITION Flow_Mass1_135
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_135.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_135.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_135.txt
+END
+
+FLOW_CONDITION Flow_Mass1_136
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_136.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_136.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_136.txt
+END
+
+FLOW_CONDITION Flow_Mass1_137
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_137.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_137.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_137.txt
+END
+
+FLOW_CONDITION Flow_Mass1_138
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_138.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_138.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_138.txt
+END
+
+FLOW_CONDITION Flow_Mass1_139
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_139.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_139.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_139.txt
+END
+
+FLOW_CONDITION Flow_Mass1_140
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_140.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_140.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_140.txt
+END
+
+FLOW_CONDITION Flow_Mass1_141
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_141.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_141.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_141.txt
+END
+
+FLOW_CONDITION Flow_Mass1_142
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_142.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_142.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_142.txt
+END
+
+FLOW_CONDITION Flow_Mass1_143
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_143.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_143.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_143.txt
+END
+
+FLOW_CONDITION Flow_Mass1_144
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_144.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_144.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_144.txt
+END
+
+FLOW_CONDITION Flow_Mass1_145
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_145.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_145.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_145.txt
+END
+
+FLOW_CONDITION Flow_Mass1_146
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_146.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_146.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_146.txt
+END
+
+FLOW_CONDITION Flow_Mass1_147
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_147.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_147.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_147.txt
+END
+
+FLOW_CONDITION Flow_Mass1_148
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_148.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_148.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_148.txt
+END
+
+FLOW_CONDITION Flow_Mass1_149
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_149.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_149.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_149.txt
+END
+
+FLOW_CONDITION Flow_Mass1_150
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_150.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_150.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_150.txt
+END
+
+FLOW_CONDITION Flow_Mass1_151
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_151.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_151.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_151.txt
+END
+
+FLOW_CONDITION Flow_Mass1_152
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_152.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_152.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_152.txt
+END
+
+FLOW_CONDITION Flow_Mass1_153
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_153.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_153.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_153.txt
+END
+
+FLOW_CONDITION Flow_Mass1_154
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_154.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_154.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_154.txt
+END
+
+FLOW_CONDITION Flow_Mass1_155
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_155.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_155.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_155.txt
+END
+
+FLOW_CONDITION Flow_Mass1_156
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_156.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_156.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_156.txt
+END
+
+FLOW_CONDITION Flow_Mass1_157
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_157.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_157.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_157.txt
+END
+
+FLOW_CONDITION Flow_Mass1_158
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_158.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_158.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_158.txt
+END
+
+FLOW_CONDITION Flow_Mass1_159
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_159.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_159.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_159.txt
+END
+
+FLOW_CONDITION Flow_Mass1_160
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_160.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_160.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_160.txt
+END
+
+FLOW_CONDITION Flow_Mass1_161
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_161.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_161.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_161.txt
+END
+
+FLOW_CONDITION Flow_Mass1_162
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_162.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_162.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_162.txt
+END
+
+FLOW_CONDITION Flow_Mass1_163
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_163.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_163.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_163.txt
+END
+
+FLOW_CONDITION Flow_Mass1_164
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_164.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_164.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_164.txt
+END
+
+FLOW_CONDITION Flow_Mass1_165
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_165.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_165.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_165.txt
+END
+
+FLOW_CONDITION Flow_Mass1_166
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_166.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_166.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_166.txt
+END
+
+FLOW_CONDITION Flow_Mass1_167
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_167.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_167.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_167.txt
+END
+
+FLOW_CONDITION Flow_Mass1_168
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_168.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_168.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_168.txt
+END
+
+FLOW_CONDITION Flow_Mass1_169
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_169.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_169.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_169.txt
+END
+
+FLOW_CONDITION Flow_Mass1_170
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_170.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_170.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_170.txt
+END
+
+FLOW_CONDITION Flow_Mass1_171
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_171.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_171.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_171.txt
+END
+
+FLOW_CONDITION Flow_Mass1_172
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_172.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_172.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_172.txt
+END
+
+FLOW_CONDITION Flow_Mass1_173
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_173.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_173.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_173.txt
+END
+
+FLOW_CONDITION Flow_Mass1_174
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_174.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_174.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_174.txt
+END
+
+FLOW_CONDITION Flow_Mass1_175
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_175.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_175.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_175.txt
+END
+
+FLOW_CONDITION Flow_Mass1_176
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_176.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_176.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_176.txt
+END
+
+FLOW_CONDITION Flow_Mass1_177
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_177.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_177.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_177.txt
+END
+
+FLOW_CONDITION Flow_Mass1_178
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_178.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_178.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_178.txt
+END
+
+FLOW_CONDITION Flow_Mass1_179
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_179.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_179.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_179.txt
+END
+
+FLOW_CONDITION Flow_Mass1_180
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_180.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_180.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_180.txt
+END
+
+FLOW_CONDITION Flow_Mass1_181
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_181.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_181.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_181.txt
+END
+
+FLOW_CONDITION Flow_Mass1_182
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_182.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_182.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_182.txt
+END
+
+FLOW_CONDITION Flow_Mass1_183
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_183.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_183.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_183.txt
+END
+
+FLOW_CONDITION Flow_Mass1_184
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_184.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_184.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_184.txt
+END
+
+FLOW_CONDITION Flow_Mass1_185
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_185.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_185.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_185.txt
+END
+
+FLOW_CONDITION Flow_Mass1_186
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_186.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_186.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_186.txt
+END
+
+FLOW_CONDITION Flow_Mass1_187
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_187.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_187.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_187.txt
+END
+
+FLOW_CONDITION Flow_Mass1_188
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_188.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_188.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_188.txt
+END
+
+FLOW_CONDITION Flow_Mass1_189
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_189.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_189.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_189.txt
+END
+
+FLOW_CONDITION Flow_Mass1_190
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_190.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_190.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_190.txt
+END
+
+FLOW_CONDITION Flow_Mass1_191
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_191.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_191.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_191.txt
+END
+
+FLOW_CONDITION Flow_Mass1_192
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_192.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_192.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_192.txt
+END
+
+FLOW_CONDITION Flow_Mass1_193
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_193.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_193.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_193.txt
+END
+
+FLOW_CONDITION Flow_Mass1_194
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_194.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_194.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_194.txt
+END
+
+FLOW_CONDITION Flow_Mass1_195
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_195.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_195.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_195.txt
+END
+
+FLOW_CONDITION Flow_Mass1_196
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_196.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_196.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_196.txt
+END
+
+FLOW_CONDITION Flow_Mass1_197
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_197.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_197.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_197.txt
+END
+
+FLOW_CONDITION Flow_Mass1_198
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_198.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_198.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_198.txt
+END
+
+FLOW_CONDITION Flow_Mass1_199
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_199.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_199.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_199.txt
+END
+
+FLOW_CONDITION Flow_Mass1_200
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_200.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_200.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_200.txt
+END
+
+FLOW_CONDITION Flow_Mass1_201
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_201.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_201.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_201.txt
+END
+
+FLOW_CONDITION Flow_Mass1_202
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_202.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_202.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_202.txt
+END
+
+FLOW_CONDITION Flow_Mass1_203
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_203.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_203.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_203.txt
+END
+
+FLOW_CONDITION Flow_Mass1_204
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_204.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_204.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_204.txt
+END
+
+FLOW_CONDITION Flow_Mass1_205
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_205.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_205.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_205.txt
+END
+
+FLOW_CONDITION Flow_Mass1_206
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_206.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_206.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_206.txt
+END
+
+FLOW_CONDITION Flow_Mass1_207
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_207.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_207.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_207.txt
+END
+
+FLOW_CONDITION Flow_Mass1_208
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_208.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_208.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_208.txt
+END
+
+FLOW_CONDITION Flow_Mass1_209
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_209.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_209.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_209.txt
+END
+
+FLOW_CONDITION Flow_Mass1_210
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_210.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_210.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_210.txt
+END
+
+FLOW_CONDITION Flow_Mass1_211
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_211.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_211.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_211.txt
+END
+
+FLOW_CONDITION Flow_Mass1_212
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_212.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_212.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_212.txt
+END
+
+FLOW_CONDITION Flow_Mass1_213
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_213.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_213.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_213.txt
+END
+
+FLOW_CONDITION Flow_Mass1_214
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_214.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_214.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_214.txt
+END
+
+FLOW_CONDITION Flow_Mass1_215
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_215.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_215.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_215.txt
+END
+
+FLOW_CONDITION Flow_Mass1_216
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_216.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_216.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_216.txt
+END
+
+FLOW_CONDITION Flow_Mass1_217
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_217.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_217.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_217.txt
+END
+
+FLOW_CONDITION Flow_Mass1_218
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_218.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_218.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_218.txt
+END
+
+FLOW_CONDITION Flow_Mass1_219
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_219.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_219.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_219.txt
+END
+
+FLOW_CONDITION Flow_Mass1_220
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_220.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_220.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_220.txt
+END
+
+FLOW_CONDITION Flow_Mass1_221
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_221.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_221.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_221.txt
+END
+
+FLOW_CONDITION Flow_Mass1_222
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_222.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_222.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_222.txt
+END
+
+FLOW_CONDITION Flow_Mass1_223
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_223.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_223.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_223.txt
+END
+
+FLOW_CONDITION Flow_Mass1_224
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_224.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_224.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_224.txt
+END
+
+FLOW_CONDITION Flow_Mass1_225
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_225.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_225.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_225.txt
+END
+
+FLOW_CONDITION Flow_Mass1_226
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_226.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_226.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_226.txt
+END
+
+FLOW_CONDITION Flow_Mass1_227
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_227.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_227.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_227.txt
+END
+
+FLOW_CONDITION Flow_Mass1_228
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_228.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_228.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_228.txt
+END
+
+FLOW_CONDITION Flow_Mass1_229
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_229.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_229.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_229.txt
+END
+
+FLOW_CONDITION Flow_Mass1_230
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_230.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_230.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_230.txt
+END
+
+FLOW_CONDITION Flow_Mass1_231
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_231.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_231.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_231.txt
+END
+
+FLOW_CONDITION Flow_Mass1_232
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_232.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_232.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_232.txt
+END
+
+FLOW_CONDITION Flow_Mass1_233
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_233.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_233.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_233.txt
+END
+
+FLOW_CONDITION Flow_Mass1_234
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_234.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_234.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_234.txt
+END
+
+FLOW_CONDITION Flow_Mass1_235
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_235.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_235.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_235.txt
+END
+
+FLOW_CONDITION Flow_Mass1_236
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_236.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_236.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_236.txt
+END
+
+FLOW_CONDITION Flow_Mass1_237
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_237.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_237.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_237.txt
+END
+
+FLOW_CONDITION Flow_Mass1_238
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_238.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_238.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_238.txt
+END
+
+FLOW_CONDITION Flow_Mass1_239
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_239.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_239.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_239.txt
+END
+
+FLOW_CONDITION Flow_Mass1_240
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_240.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_240.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_240.txt
+END
+
+FLOW_CONDITION Flow_Mass1_241
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_241.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_241.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_241.txt
+END
+
+FLOW_CONDITION Flow_Mass1_242
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_242.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_242.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_242.txt
+END
+
+FLOW_CONDITION Flow_Mass1_243
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_243.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_243.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_243.txt
+END
+
+FLOW_CONDITION Flow_Mass1_244
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_244.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_244.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_244.txt
+END
+
+FLOW_CONDITION Flow_Mass1_245
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_245.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_245.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_245.txt
+END
+
+FLOW_CONDITION Flow_Mass1_246
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_246.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_246.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_246.txt
+END
+
+FLOW_CONDITION Flow_Mass1_247
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_247.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_247.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_247.txt
+END
+
+FLOW_CONDITION Flow_Mass1_248
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_248.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_248.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_248.txt
+END
+
+FLOW_CONDITION Flow_Mass1_249
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_249.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_249.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_249.txt
+END
+
+FLOW_CONDITION Flow_Mass1_250
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_250.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_250.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_250.txt
+END
+
+FLOW_CONDITION Flow_Mass1_251
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_251.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_251.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_251.txt
+END
+
+FLOW_CONDITION Flow_Mass1_252
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_252.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_252.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_252.txt
+END
+
+FLOW_CONDITION Flow_Mass1_253
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_253.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_253.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_253.txt
+END
+
+FLOW_CONDITION Flow_Mass1_254
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_254.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_254.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_254.txt
+END
+
+FLOW_CONDITION Flow_Mass1_255
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_255.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_255.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_255.txt
+END
+
+FLOW_CONDITION Flow_Mass1_256
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_256.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_256.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_256.txt
+END
+
+FLOW_CONDITION Flow_Mass1_257
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_257.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_257.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_257.txt
+END
+
+FLOW_CONDITION Flow_Mass1_258
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_258.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_258.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_258.txt
+END
+
+FLOW_CONDITION Flow_Mass1_259
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_259.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_259.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_259.txt
+END
+
+FLOW_CONDITION Flow_Mass1_260
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_260.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_260.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_260.txt
+END
+
+FLOW_CONDITION Flow_Mass1_261
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_261.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_261.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_261.txt
+END
+
+FLOW_CONDITION Flow_Mass1_262
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_262.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_262.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_262.txt
+END
+
+FLOW_CONDITION Flow_Mass1_263
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_263.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_263.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_263.txt
+END
+
+FLOW_CONDITION Flow_Mass1_264
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_264.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_264.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_264.txt
+END
+
+FLOW_CONDITION Flow_Mass1_265
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_265.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_265.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_265.txt
+END
+
+FLOW_CONDITION Flow_Mass1_266
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_266.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_266.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_266.txt
+END
+
+FLOW_CONDITION Flow_Mass1_267
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_267.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_267.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_267.txt
+END
+
+FLOW_CONDITION Flow_Mass1_268
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_268.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_268.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_268.txt
+END
+
+FLOW_CONDITION Flow_Mass1_269
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_269.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_269.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_269.txt
+END
+
+FLOW_CONDITION Flow_Mass1_270
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_270.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_270.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_270.txt
+END
+
+FLOW_CONDITION Flow_Mass1_271
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_271.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_271.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_271.txt
+END
+
+FLOW_CONDITION Flow_Mass1_272
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_272.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_272.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_272.txt
+END
+
+FLOW_CONDITION Flow_Mass1_273
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_273.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_273.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_273.txt
+END
+
+FLOW_CONDITION Flow_Mass1_274
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_274.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_274.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_274.txt
+END
+
+FLOW_CONDITION Flow_Mass1_275
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_275.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_275.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_275.txt
+END
+
+FLOW_CONDITION Flow_Mass1_276
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_276.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_276.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_276.txt
+END
+
+FLOW_CONDITION Flow_Mass1_277
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_277.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_277.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_277.txt
+END
+
+FLOW_CONDITION Flow_Mass1_278
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_278.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_278.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_278.txt
+END
+
+FLOW_CONDITION Flow_Mass1_279
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_279.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_279.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_279.txt
+END
+
+FLOW_CONDITION Flow_Mass1_280
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_280.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_280.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_280.txt
+END
+
+FLOW_CONDITION Flow_Mass1_281
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_281.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_281.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_281.txt
+END
+
+FLOW_CONDITION Flow_Mass1_282
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_282.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_282.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_282.txt
+END
+
+FLOW_CONDITION Flow_Mass1_283
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_283.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_283.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_283.txt
+END
+
+FLOW_CONDITION Flow_Mass1_284
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_284.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_284.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_284.txt
+END
+
+FLOW_CONDITION Flow_Mass1_285
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_285.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_285.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_285.txt
+END
+
+FLOW_CONDITION Flow_Mass1_286
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_286.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_286.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_286.txt
+END
+
+FLOW_CONDITION Flow_Mass1_287
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_287.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_287.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_287.txt
+END
+
+FLOW_CONDITION Flow_Mass1_288
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_288.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_288.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_288.txt
+END
+
+FLOW_CONDITION Flow_Mass1_289
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_289.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_289.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_289.txt
+END
+
+FLOW_CONDITION Flow_Mass1_290
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_290.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_290.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_290.txt
+END
+
+FLOW_CONDITION Flow_Mass1_291
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_291.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_291.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_291.txt
+END
+
+FLOW_CONDITION Flow_Mass1_292
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_292.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_292.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_292.txt
+END
+
+FLOW_CONDITION Flow_Mass1_293
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_293.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_293.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_293.txt
+END
+
+FLOW_CONDITION Flow_Mass1_294
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_294.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_294.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_294.txt
+END
+
+FLOW_CONDITION Flow_Mass1_295
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_295.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_295.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_295.txt
+END
+
+FLOW_CONDITION Flow_Mass1_296
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_296.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_296.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_296.txt
+END
+
+FLOW_CONDITION Flow_Mass1_297
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_297.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_297.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_297.txt
+END
+
+FLOW_CONDITION Flow_Mass1_298
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_298.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_298.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_298.txt
+END
+
+FLOW_CONDITION Flow_Mass1_299
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_299.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_299.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_299.txt
+END
+
+FLOW_CONDITION Flow_Mass1_300
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_300.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_300.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_300.txt
+END
+
+FLOW_CONDITION Flow_Mass1_301
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_301.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_301.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_301.txt
+END
+
+FLOW_CONDITION Flow_Mass1_302
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_302.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_302.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_302.txt
+END
+
+FLOW_CONDITION Flow_Mass1_303
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_303.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_303.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_303.txt
+END
+
+FLOW_CONDITION Flow_Mass1_304
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_304.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_304.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_304.txt
+END
+
+FLOW_CONDITION Flow_Mass1_305
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_305.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_305.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_305.txt
+END
+
+FLOW_CONDITION Flow_Mass1_306
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_306.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_306.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_306.txt
+END
+
+FLOW_CONDITION Flow_Mass1_307
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_307.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_307.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_307.txt
+END
+
+FLOW_CONDITION Flow_Mass1_308
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_308.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_308.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_308.txt
+END
+
+FLOW_CONDITION Flow_Mass1_309
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_309.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_309.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_309.txt
+END
+
+FLOW_CONDITION Flow_Mass1_310
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_310.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_310.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_310.txt
+END
+
+FLOW_CONDITION Flow_Mass1_311
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_311.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_311.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_311.txt
+END
+
+FLOW_CONDITION Flow_Mass1_312
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_312.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_312.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_312.txt
+END
+
+FLOW_CONDITION Flow_Mass1_313
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_313.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_313.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_313.txt
+END
+
+FLOW_CONDITION Flow_Mass1_314
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_314.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_314.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_314.txt
+END
+
+FLOW_CONDITION Flow_Mass1_315
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_315.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_315.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_315.txt
+END
+
+FLOW_CONDITION Flow_Mass1_316
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_316.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_316.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_316.txt
+END
+
+FLOW_CONDITION Flow_Mass1_317
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_317.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_317.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_317.txt
+END
+
+FLOW_CONDITION Flow_Mass1_318
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_318.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_318.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_318.txt
+END
+
+FLOW_CONDITION Flow_Mass1_319
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_319.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_319.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_319.txt
+END
+
+FLOW_CONDITION Flow_Mass1_320
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_320.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_320.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_320.txt
+END
+
+FLOW_CONDITION Flow_Mass1_321
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_321.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_321.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_321.txt
+END
+
+FLOW_CONDITION Flow_Mass1_322
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_322.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_322.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_322.txt
+END
+
+FLOW_CONDITION Flow_Mass1_323
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_323.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_323.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_323.txt
+END
+
+FLOW_CONDITION Flow_Mass1_324
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_324.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_324.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_324.txt
+END
+
+FLOW_CONDITION Flow_Mass1_325
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_325.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_325.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_325.txt
+END
+
+FLOW_CONDITION Flow_Mass1_326
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_326.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_326.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_326.txt
+END
+
+FLOW_CONDITION Flow_Mass1_327
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_327.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_327.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_327.txt
+END
+
+FLOW_CONDITION Flow_Mass1_328
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_328.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_328.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_328.txt
+END
+
+FLOW_CONDITION Flow_Mass1_329
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_329.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_329.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_329.txt
+END
+
+FLOW_CONDITION Flow_Mass1_330
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_330.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_330.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_330.txt
+END
+
+FLOW_CONDITION Flow_Mass1_331
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_331.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_331.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_331.txt
+END
+
+FLOW_CONDITION Flow_Mass1_332
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_332.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_332.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_332.txt
+END
+
+FLOW_CONDITION Flow_Mass1_333
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_333.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_333.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_333.txt
+END
+
+FLOW_CONDITION Flow_Mass1_334
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_334.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_334.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_334.txt
+END
+
+FLOW_CONDITION Flow_Mass1_335
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_335.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_335.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_335.txt
+END
+
+FLOW_CONDITION Flow_Mass1_336
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_336.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_336.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_336.txt
+END
+
+FLOW_CONDITION Flow_Mass1_337
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_337.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_337.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_337.txt
+END
+
+FLOW_CONDITION Flow_Mass1_338
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_338.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_338.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_338.txt
+END
+
+FLOW_CONDITION Flow_Mass1_339
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_339.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_339.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_339.txt
+END
+
+FLOW_CONDITION Flow_Mass1_340
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_340.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_340.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_340.txt
+END
+
+FLOW_CONDITION Flow_Mass1_341
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_341.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_341.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_341.txt
+END
+
+FLOW_CONDITION Flow_Mass1_342
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_342.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_342.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_342.txt
+END
+
+FLOW_CONDITION Flow_Mass1_343
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_343.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_343.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_343.txt
+END
+
+FLOW_CONDITION Flow_Mass1_344
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_344.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_344.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_344.txt
+END
+
+FLOW_CONDITION Flow_Mass1_345
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_345.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_345.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_345.txt
+END
+
+FLOW_CONDITION Flow_Mass1_346
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_346.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_346.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_346.txt
+END
+
+FLOW_CONDITION Flow_Mass1_347
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_347.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_347.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_347.txt
+END
+
+FLOW_CONDITION Flow_Mass1_348
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_348.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_348.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_348.txt
+END
+
+FLOW_CONDITION Flow_Mass1_349
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_349.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_349.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_349.txt
+END
+
+FLOW_CONDITION Flow_Mass1_350
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_350.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_350.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_350.txt
+END
+
+FLOW_CONDITION Flow_Mass1_351
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_351.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_351.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_351.txt
+END
+
+FLOW_CONDITION Flow_Mass1_352
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_352.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_352.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_352.txt
+END
+
+FLOW_CONDITION Flow_Mass1_353
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_353.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_353.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_353.txt
+END
+
+FLOW_CONDITION Flow_Mass1_354
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_354.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_354.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_354.txt
+END
+
+FLOW_CONDITION Flow_Mass1_355
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_355.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_355.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_355.txt
+END
+
+FLOW_CONDITION Flow_Mass1_356
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_356.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_356.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_356.txt
+END
+
+FLOW_CONDITION Flow_Mass1_357
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_357.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_357.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_357.txt
+END
+
+FLOW_CONDITION Flow_Mass1_358
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_358.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_358.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_358.txt
+END
+
+FLOW_CONDITION Flow_Mass1_359
+  INTERPOLATION LINEAR
+  TYPE
+    PRESSURE seepage
+    TEMPERATURE dirichlet
+  /
+  DATUM file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/DatumH_River_359.txt
+  PRESSURE 101325
+  GRADIENT
+    PRESSURE file ../../big_data/boundary_conditions/river_bc/stage_2007-2019/Gradients_River_359.txt
+  /
+  TEMPERATURE file ../../big_data/boundary_conditions/river_bc/temp_2007-2019/Temp_River_359.txt
+END
+
