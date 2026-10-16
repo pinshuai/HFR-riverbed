@@ -26,12 +26,10 @@ SIMULATION
   /
 # noskip
 
- skip
-  RESTART 
-    FILENAME /pscratch/sd/p/pshuai/HFR-riverbed/TH_homo_alluvium_2017-2019/TH_homo_alluvium_2017-2019-restart-max-wc.h5
-    # RESET_TO_TIME_ZERO
-  END
- noskip
+  # RESTART 
+  #   FILENAME /pscratch/sd/p/pshuai/HFR-riverbed/TH_homo_alluvium_2017-2019/TH_homo_alluvium_2017-2019-restart-max-wc.h5
+  #   # RESET_TO_TIME_ZERO
+  # END
 
   INPUT_RECORD_FILE
 END

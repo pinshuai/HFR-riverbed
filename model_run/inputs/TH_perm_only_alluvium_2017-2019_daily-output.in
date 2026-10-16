@@ -29,10 +29,10 @@ SIMULATION
   /
 # noskip
 
-  RESTART 
-    FILENAME /pscratch/sd/p/pshuai/HFR-riverbed/TH_perm_only_alluvium_2017-2019_daily-output_restart/TH_perm_only_alluvium_2017-2019_daily-output-restart-max-wc.h5
-    # RESET_TO_TIME_ZERO
-  END
+  # RESTART 
+  #   FILENAME /pscratch/sd/p/pshuai/HFR-riverbed/TH_perm_only_alluvium_2017-2019_daily-output_restart/TH_perm_only_alluvium_2017-2019_daily-output-restart-max-wc.h5
+  #   # RESET_TO_TIME_ZERO
+  # END
 
   INPUT_RECORD_FILE
 END
