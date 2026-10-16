@@ -5,6 +5,8 @@ This repo contains workflows to setup the Hanford unstructured, reach scale, PFL
 
 ![Unstructured mesh of the Hanford riverbed model](./figures/mesh.jpg)
 
+**Citation**: Shuai P, Zeng C, Hammond G, Song X, Chen K, Terry NC, Briggs MA, Gooseff MN, Perkins WA, Richmond MC, and Chen X. Incorporating large-scale high-resolution riverbed permeability survey to characterize river corridor thermal regimes. [Preprint]
+
 ## folder structure
 ```
 HFR-riverbed/
