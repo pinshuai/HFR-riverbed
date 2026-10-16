@@ -10,19 +10,23 @@ This repo contains workflows to setup the Hanford unstructured, reach scale, PFL
 ## folder structure
 ```
 HFR-riverbed/
-├── data/                  # model input datasets
-│   ├── HFR_H_Initial.h5               # initial head condition
-│   ├── perm_data_*.h5                 # permeability fields (alluvium, riverbed, basalt variants)
-│   └── riverbed_permeability_input.vtu
+├── data/                  # model input datasets referenced by the input decks
+│   ├── boundary_conditions/
+│   │   ├── HFR_H_Initial.h5               # initial head condition
+│   │   ├── stage_2017-2019_6h-smooth/     # river stage BCs (DatumH_River_*.txt, Gradients_River_*.txt)
+│   │   └── temp_2017-2019_6h-smooth/      # river temperature BCs (Temp_River_*.txt)
+│   ├── mesh/
+│   │   └── hanford_mesh_100m-updated-matID-river.h5   # unstructured mesh with material IDs
+│   └── perm/
+│       ├── perm_data_*.h5                 # permeability fields (alluvium, riverbed, basalt variants)
+│       └── riverbed_permeability_input.vtu
 ├── figures/               # figures used in this README and manuscript
 │   └── mesh.jpg
 ├── model_run/
-│   └── inputs/            # PFLOTRAN input decks and run scripts
-│       ├── HFR-model-100m-*.in        # flow / TH model decks
-│       ├── TH_*_alluvium*.in          # TH runs with homogeneous vs. heterogeneous alluvium perm
-│       ├── *_obs_block.in, *_region_block.in   # well/piezometer observation and region blocks
-│       ├── data_from_USGS*.csv        # USGS data used for alluvium K
-│       └── run*.sh, debug.sh          # job submission scripts
+│   └── inputs/            # PFLOTRAN input decks
+│       ├── TH_homo_alluvium_2017-2019.in                   # TH run, homogeneous alluvium perm
+│       ├── TH_perm_only_alluvium_2017-2019_daily-output.in # TH run, heterogeneous alluvium perm
+│       └── archive/                       # earlier decks, obs/region blocks, USGS data, and run scripts
 ├── notebooks/             # pre- and post-processing workflows (see notebooks/README.txt)
 │   ├── mesh_hanford.ipynb, generate_*.ipynb, PFLOTRAN_input_deck.ipynb   # build mesh, materials, BCs, input deck
 │   ├── plot_*.ipynb                   # compare simulations with observations, plot fluxes/temperature/tracer
@@ -33,8 +37,8 @@ HFR-riverbed/
 ```
 
 ## notes
-- data_from_USGS_1.csv is an updated version and is used in alluvium K
-- perm_data_only_alluvium_smoothed_cutoff.h5 is the perm file that has smoothed the K and cutoff the extreme small and large values. 
+- `model_run/inputs/archive/data_from_USGS_1.csv` is an updated version and is used in alluvium K
+- `data/perm/perm_data_only_alluvium_smoothed_cutoff.h5` is the perm file that has smoothed the K and cutoff the extreme small and large values. 
 
 
 ## to run PFLOTRAN on NERSC
