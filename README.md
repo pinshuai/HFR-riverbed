@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1092031794.svg)](https://doi.org/10.5281/zenodo.23503862)
+
 # README
 
 ## About
